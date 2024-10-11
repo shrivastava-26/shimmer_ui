@@ -1,0 +1,23 @@
+.hello {
+  width: 100%;
+  height: 150px;
+  background: #f6f7f8;
+  background-image: linear-gradient(to right,
+      #d0ddea 0%,
+      #2947a0 20%,
+      #6d0767 40%,
+      #7b0505 100%);
+  background-repeat: no-repeat;
+  background-size: 200% auto;
+  animation: shimmer 1.5s linear infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+
+  100% {
+    background-position: 200% 0;
+  }
+}
