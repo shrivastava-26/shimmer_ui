@@ -1,8 +1,27 @@
-# React + Vite
+Shimmer UI Component
+This project implements a Shimmer UI effect often used as a placeholder loading animation. Shimmer loading gives users visual feedback that content is loading, improving user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Lightweight and easy to integrate.
+Customizable shimmer animation.
+Responsive design.
+Built using HTML and CSS.
+Preview
 
-Currently, two official plugins are available:
+(Replace with an actual demo gif or image)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Table of Contents
+Installation
+Usage
+Customization
+Contributing
+License
+Installation
+Clone the repository:
+
+    git clone https://github.com/your-username/shimmer-ui.git
+    Navigate to the project folder:
+
+
+    cd shimmer-ui
+    Open index.html in your browser to see the shimmer effect in action.
