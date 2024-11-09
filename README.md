@@ -1,5 +1,5 @@
 # Shimmer UI Component
-This project implements a Shimmer UI effect often used as a placeholder loading animation. Shimmer loading gives users visual feedback that content is loading, improving user experience.
+This project implements a Shimmer UI effect often used as a placeholder loading animation. Shimmer loading gives users visual feedback that content is loading, improving user experience
 
 ## Features
 Lightweight and easy to integrate.
